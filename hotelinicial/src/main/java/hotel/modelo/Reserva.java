@@ -9,7 +9,7 @@ import java.time.temporal.ChronoUnit;
 
 /**
  *
- * @author Antonio
+ * @author Gema Natalia
  */
 public class Reserva {
     private static int contadorReservas = 0;
