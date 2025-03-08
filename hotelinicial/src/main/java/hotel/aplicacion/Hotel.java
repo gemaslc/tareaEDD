@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Antonio
+ * @author Gema Natalia
  */
 public class Hotel {
 
