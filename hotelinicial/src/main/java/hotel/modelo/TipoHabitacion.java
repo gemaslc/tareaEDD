@@ -6,7 +6,7 @@ package hotel.modelo;
 
 /**
  *
- * @author Antonio
+ * @author Gema Natalia
  */
 
 public enum TipoHabitacion {
