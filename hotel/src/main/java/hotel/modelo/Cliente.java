@@ -8,7 +8,7 @@ import hotel.utilidades.Utilidades;
 
 /**
  *
- * @author Antonio
+ * @author Gema natalia
  */
 public class Cliente {
     private static int contadorClientes = 0;
